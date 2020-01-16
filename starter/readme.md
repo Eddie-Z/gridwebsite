@@ -4,4 +4,5 @@
 *font-size62.5 10px/16px -> 1rem = 10px
 *min content
 *@extend % is like a copy
-repeat(auto-fit,minmax(25rem,1fr));
+*repeat(auto-fit,minmax(25rem,1fr));
+*image has aspect ratio. use center
